@@ -62,9 +62,16 @@ Gnoland is a robust blockchain that provides concurrency and scalability with sm
 
 ## Misc
 
-* [Bounties](https://github.com/gnolang/bounties)
-* [Assets](https://github.com/gnolang/gno/tree/master/gnoland/assets)
-* [Peace](https://github.com/gnolang/gno/blob/master/gnoland/docs/peace.md)
+* [Bounties](https://github.com/gnolang/bounties) - Legacy official bounty board.
+* [Assets](https://github.com/gnolang/gno/tree/master/gnoland/assets) - Official logo and assets.
+* [Peace](https://github.com/gnolang/gno/blob/master/gnoland/docs/peace.md) - Call for peace.
+* [GitPOAP](https://www.gitpoap.io/gh/gnolang) - Contributors (Git) can mint POAPs.
+
+## Tips & Snippets
+
+_Note: We'd like to try a section with small tips & snippets and less curation. Please open PRs with just a link to a gist, tweet, screenshot, discussion._
+
+* ...
 
 ## Contributing
 
